@@ -1,0 +1,15 @@
+/**
+  * @name Hide Nitro
+  * @author eros71
+  * @description Hides the Nitro button from the main sidebar and the settings
+  * @source https://raw.githubusercontent.com/eros71-dev/HideNitro/main/HideNitro.theme.css
+  * @website https://github.com/eros71-dev/HideNitro
+  * @version 1
+*/
+
+[data-list-item-id="private-channels-uid_40___nitro"]{
+    display: none;
+}
+[aria-controls="discord-nitro-tab"]{
+    display: none;
+}
