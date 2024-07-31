@@ -18,9 +18,3 @@
 [aria-controls="discord-nitro-tab"]{
     display: none;
 }
-
-/* Hide recents */
-
-div[class^='recentsIcon']{
-    display: none;
-}
