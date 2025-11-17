@@ -69,3 +69,7 @@ div[role="tab"][aria-label="Nitro"]{
 div[class^='recentsIcon']{
     display: none;
 }*/
+
+div[class^='nowPlayingColumn']{
+    display: none;
+}
